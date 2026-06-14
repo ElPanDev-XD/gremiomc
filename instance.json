@@ -10,10 +10,11 @@
         "type": "mrpack",
         "version": "1.21",
         "loader": {
-        "type": "fabric",
-        "version": "latest"
-       },
-        {
+            "type": "fabric",
+            "version": "latest"
+        }
+    },
+    {
         "id": "fo",
         "name": "Prueba",
         "nombre": "Prueba",
@@ -24,8 +25,7 @@
         "type": "mrpack",
         "version": "1.20.1",
         "loader": {
-        "type": "fabric",
-        "version": "0.14.23"
-       }
+            "type": "fabric",
+            "version": "0.14.23"
+        }
     }
- ]
