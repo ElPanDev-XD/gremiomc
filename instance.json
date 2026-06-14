@@ -20,12 +20,12 @@
         "nombre": "Prueba",
         "javaVer": "17",
         "mcVer": "1.20.1",
-        "code": "prueba",
+        "code": "1234",
         "packUrl": "https://github.com/ElPanDev-XD/gremiomc/releases/download/mrpack/fo.mrpack",
         "type": "mrpack",
         "version": "1.20.1",
         "loader": {
             "type": "fabric",
-            "version": "0.14.23"
+            "version": "lastest"
         }
     }
