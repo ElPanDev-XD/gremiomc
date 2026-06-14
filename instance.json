@@ -12,6 +12,20 @@
         "loader": {
         "type": "fabric",
         "version": "latest"
+       },
+        {
+        "id": "fo",
+        "name": "Prueba",
+        "nombre": "Prueba",
+        "javaVer": "17",
+        "mcVer": "1.20.1",
+        "code": "prueba",
+        "packUrl": "https://github.com/ElPanDev-XD/gremiomc/releases/download/mrpack/test.mrpack",
+        "type": "mrpack",
+        "version": "1.20.1",
+        "loader": {
+        "type": "fabric",
+        "version": "0.14.23"
        }
     }
  ]
