@@ -1,1 +1,17 @@
-
+[
+    {
+        "id": "test-instance",
+        "name": "GremioMC Test",
+        "nombre": "GremioMC Test",
+        "javaVer": "21",
+        "mcVer": "1.21",
+        "code": "TEST",
+        "packUrl": "https://github.com/ElPanDev-XD/gremiomc/releases/download/mrpack/test.mrpack",
+        "type": "mrpack",
+        "version": "1.21",
+        "loader": {
+        "type": "fabric",
+        "version": "latest"
+       }
+    }
+ ]
